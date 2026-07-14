@@ -10,3 +10,9 @@ This package contains:
 - Clean diagrams used in the brief
 
 Students must localise the assignment to a Ghanaian service context and use their own index-number parameters.
+
+//HOW  TO RUN MY CODE
+    cd Starter_Code
+    cd src
+    javac *.java
+    java GhanaServiceSimulator ..\data\requests_sample.csv
