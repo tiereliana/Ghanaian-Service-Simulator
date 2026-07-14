@@ -1,0 +1,36 @@
+
+REQ001,1,UG Shuttle Stop,BANKING,2,4,false,Account inquiry
+REQ002,2,UG Clinic,MOBILE_MONEY_DISPUTE,5,12,false,Urgent failed transfer
+REQ003,3,ECG Vendor,BANKING,3,7,false,ATM cash withdrawal
+REQ004,4,Ghana Card Desk,BANKING,2,10,true,Incorrect customer details
+REQ005,5,Mobile Money Agent,MOBILE_MONEY_DISPUTE,4,9,false,Failed transaction dispute
+REQ006,6,UG Helpdesk,BANKING,1,5,false,PIN reset
+REQ007,7,Bus Terminal,BANKING,2,6,false,Cheque deposit inquiry
+REQ008,8,UG Clinic,MOBILE_MONEY_DISPUTE,4,15,false,Fraud investigation request
+REQ009,9,Ghana Card Desk,BANKING,1,8,true,Account information correction
+REQ010,10,ECG Vendor,BANKING,2,6,false,Cash deposit
+REQ011,11,Bank Hall,BANKING,3,10,false,ATM card issue
+REQ012,12,Faculty Office,BANKING,2,6,true,Incorrect account registration
+REQ013,13,Mallam,BANKING,2,8,false,Account balance inquiry
+REQ014,14,Teshie,MOBILE_MONEY_DISPUTE,4,15,false,Urgent failed transfer complaint
+REQ015,15,Nungua,BANKING,2,12,true,Customer details correction
+REQ016,16,Ashaiman,MOBILE_MONEY_DISPUTE,5,10,false,Large failed wallet transfer
+REQ017,17,Spintex,BANKING,3,25,false,Corporate account verification
+REQ018,18,East Legon,BANKING,1,14,true,Incorrect account name correction
+REQ019,19,Kwabenya,MOBILE_MONEY_DISPUTE,2,11,false,Wrong recipient transfer
+REQ020,20,Pokuase,BANKING,1,5,false,ATM PIN reset request
+REQ021,21,Abeka,BANKING,3,18,true,Incorrect account information
+REQ022,22,Chorkor,MOBILE_MONEY_DISPUTE,5,20,false,Fraudulent wallet transaction
+REQ023,23,Mamprobi,BANKING,4,15,false,Priority customer cash withdrawal
+REQ024,24,Labadi,BANKING,2,10,true,Customer profile update
+REQ025,25,Korle Bu,MOBILE_MONEY_DISPUTE,4,35,false,High-value transfer reversal
+REQ026,26,James Town,BANKING,1,7,false,Cheque book request
+REQ027,27,Nima,MOBILE_MONEY_DISPUTE,3,14,false,Agent transaction dispute
+REQ028,28,Maamobi,BANKING,2,19,true,Signature verification correction
+REQ029,29,Kotobabi,BANKING,1,9,false,Debit card replacement
+REQ030,30,Pig Farm,MOBILE_MONEY_DISPUTE,5,10,false,Emergency wallet freeze request
+REQ031,31,Alajo,BANKING,2,13,false,Loan application inquiry
+REQ032,32,Tesano,BANKING,3,16,true,Incorrect account number correction
+REQ033,33,Ashaley Botwe,MOBILE_MONEY_DISPUTE,4,20,false,Merchant payment dispute
+REQ034,34,Haatso,BANKING,1,6,false,Statement request
+REQ035,35,Madina,MOBILE_MONEY_DISPUTE,4,11,false,Urgent mobile money reversal

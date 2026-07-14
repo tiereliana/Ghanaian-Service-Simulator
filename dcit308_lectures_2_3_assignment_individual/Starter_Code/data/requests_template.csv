@@ -1,0 +1,2 @@
+requestId,arrivalOrder,location,serviceType,urgencyLevel,estimatedMinutes,needsCorrection,notes
+REQ001,1,REPLACE_WITH_GHANA_LOCATION,REPLACE_SERVICE_TYPE,1,false,false,Short anonymised note

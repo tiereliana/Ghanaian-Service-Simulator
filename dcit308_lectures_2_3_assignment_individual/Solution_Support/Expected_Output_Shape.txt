@@ -1,0 +1,16 @@
+Your exact output will differ because your dataset and index-number parameters are unique. However, it must include this structure:
+
+--- SERVING REQUESTS ---
+Step 1: served REQ002[CLINIC_TRIAGE, U=5, T=12]
+Step 2: served REQ008[CLINIC_TRIAGE, U=4, T=15]
+...
+--- FINAL REPORT ---
+Served total: <number>
+Urgent served: <number>
+Correction served: <number>
+Normal served: <number>
+Overflow count: <number>
+Remaining urgent: <number>
+Remaining correction: <number>
+Remaining normal: <number>
+Average estimated minutes served: <number>
